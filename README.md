@@ -9,6 +9,8 @@
 
   添加全连接层作为分类器
   
+  数据集：https://www.kaggle.com/gpiosenka/autistic-children-data-set-traintestvalidate
+  
   预训练权重：https://disk.pku.edu.cn:443/link/AF9235FA8640C0FEB8661A803FC65FE7  有效期限：2023-04-05 23:59
  
 
